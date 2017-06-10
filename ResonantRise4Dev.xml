@@ -1040,38 +1040,6 @@
              description="A universal multipart API for MC 1.8.9"
              />
 
-        <mod name="MattDahEpic Core"
-             version="1.10.2-1.5.1" url="packs/ResonantRise/files/4.x/mdecore-1.10.2-1.5.1.jar" file="mdecore-1.10.2-1.5.1.jar" md5="6e8a71b14798e879f6208fcc565d7327" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/229595/"
-             authors="MattDahEpic"
-             description="Base Mod for all MattDahEpic mods."
-             />
-
-            <mod name="Auto Ore Dictionary Converter"
-                 version="1.10.2-1.1.2" url="packs/ResonantRise/files/4.x/autooredictconv-1.10.2-1.1.2.jar" file="autooredictconv-1.10.2-1.1.2.jar" md5="08b2a585ef2f17bd458ff34c272a361e" download="server"
-                 type="mods"
-                 website="http://www.curseforge.com/projects/232650/"
-                 authors="MattDahEpic"
-                 description="Converts specified ore dictionary items automatically or on keybinding."
-                 />
-
-            <mod name="Exchange Orb"
-                 version="1.10.2-1.2" url="packs/ResonantRise/files/4.x/exchangeorb-1.10.2-1.2.jar" file="exchangeorb-1.10.2-1.2.jar" md5="2c043c18dce80e942064c525f28bd219" download="server"
-                 type="mods"
-                 website="http://www.curseforge.com/projects/226399/"
-                 authors="MattDahEpic"
-                 description="Simple mod for converting various vanilla resources and mob drops."
-                 />
-
-            <mod name="TelePacks"
-                 version="1.10.2-1.0" url="packs/ResonantRise/files/4.x/telepacks-1.10.2-1.0.jar" file="telepacks-1.10.2-1.0.jar" md5="ffbc2c408ec856d2bae4276722493f56" download="server"
-                 type="mods"
-                 website="http://www.curseforge.com/projects/telepacks/"
-                 authors="MattDahEpic"
-                 description="Items that allow teleportation."
-                 />
-
 <!--
         <mod name="Mekanism"
              version="9.2.1" url="packs/ResonantRise/files/4.x/Mekanism-1.10.2-9.2.1.295.jar" file="Mekanism-1.10.2-9.2.1.295.jar" md5="c337f3f19b8c43fd70f9b13b44de768a" download="server"
